@@ -1,0 +1,49 @@
+html {
+  background-color: #cabfb6;
+  margin-top: -20px;
+}
+body {
+  background-color: white;
+  width: 800px;
+  margin: auto auto 10px auto;
+  font-family: "Open Sans";
+}
+main {
+  margin: auto 100px auto 100px;
+  padding-bottom: 20px;
+}
+h2 {
+  font-family: "Proza Libre";
+}
+.button {
+  font-size: 20px;
+  background-color: #a4c93b;
+  border: 2px solid lightgray;
+  border-radius: 3px;
+  text-decoration: none;
+  color: black;
+}
+.Abutton {
+  font-size: 20px;
+  background-color: #b6bcca;
+  border: 2px solid lightgray;
+  border-radius: 3px;
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  border: 2px solid black;
+}
+
+.DB {
+  text-decoration: none;
+  color: black;
+  background-color: #c9793b;
+  border: 10px #c9793b solid;
+  border-radius: 4px;
+  text-decoration: none;
+}
+.DB:hover {
+  padding: 8px 12px 8px 12px;
+  border: 2px black solid;
+}
